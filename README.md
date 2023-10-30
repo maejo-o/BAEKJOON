@@ -1,4 +1,4 @@
 # BAEKJOON
 JAVA
-23.10.27~\n
+23.10.27~
 baekjoon hub
